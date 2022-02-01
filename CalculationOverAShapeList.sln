@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationOverAShapeList", "CalculationOverAShapeList\CalculationOverAShapeList.csproj", "{118F4B6A-27AF-43FF-AD55-5FD07B6600BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationOverAShapeListTests", "CalculationOverAShapeListTests\CalculationOverAShapeListTests.csproj", "{D281423B-9EF2-48A6-B9D3-410E73B2F004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118F4B6A-27AF-43FF-AD55-5FD07B6600BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118F4B6A-27AF-43FF-AD55-5FD07B6600BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118F4B6A-27AF-43FF-AD55-5FD07B6600BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118F4B6A-27AF-43FF-AD55-5FD07B6600BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D281423B-9EF2-48A6-B9D3-410E73B2F004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D281423B-9EF2-48A6-B9D3-410E73B2F004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D281423B-9EF2-48A6-B9D3-410E73B2F004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D281423B-9EF2-48A6-B9D3-410E73B2F004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1EC7AA-A8A6-4A84-A1A8-A7C67750E9B8}
+	EndGlobalSection
+EndGlobal
